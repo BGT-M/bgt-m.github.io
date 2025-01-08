@@ -75,7 +75,19 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-
+  - block: features
+    content:
+      title: 研究方向
+      items:
+        - name: 大图挖掘
+          icon: python
+          icon_pack: fab
+        - name: 大语言模型
+          icon: linux
+          icon_pack: fab
+        - name: 异常检测
+          icon: overleaf
+          icon_pack: ai
 
   - block: people
     id: peoples
