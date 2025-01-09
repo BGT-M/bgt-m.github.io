@@ -6,6 +6,9 @@ type: landing
 
 sections:
   - block: hero
+    design:
+        spacing:
+          padding: ["80px", "0px", "20px", "0px"]
     content:
       title: |
         大图挖掘
@@ -16,7 +19,16 @@ sections:
         <br>
         你好，这里是大图挖掘组
 #         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+  - block: about.biography
+    id: about
+    content:
+      title: About 
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      design:
+        spacing:
+          padding: ["20px", "0", "20px", "0"]
   - block: collection
     id: Publications
     content:
@@ -32,8 +44,11 @@ sections:
       offset: 0
       order: desc
     design:
+      spacing:
+          padding: ["50px", "0px", "50px", "100px"]
       columns: '2'
       view: Citation
+      
       
   - block: collection
     id: talks
@@ -44,6 +59,8 @@ sections:
         folders:
           - event
     design:
+      spacing:
+          padding: ["50px", "0px", "50px", "100px"]
       columns: '2'
       view: compact
       
@@ -74,6 +91,8 @@ sections:
       view: showcase 
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      spacing:
+          padding: ["50px", "0px", "20px", "0px"]
 
   - block: features
     content:
@@ -108,6 +127,8 @@ sections:
       show_interests: true
       show_role: true
       show_social: true
+      spacing:
+          padding: ["30px", "0px", "30px", "0px"]
 
 
 
@@ -117,7 +138,7 @@ sections:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: '获奖'
       id: accomplishments
-      subtitle:
+      # subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
@@ -145,8 +166,11 @@ sections:
           organization_url: https://openi.org.cn/
           title: 微软学者
           url: ''
-
-
+    design:
+      columns: '2'
+      spacing:
+          padding: ["50px", "0px", "50px", "0px"]
+       
       
   - block: tag_cloud
     id: Topics
@@ -159,7 +183,54 @@ sections:
         gradient_end: '#eef2f3'
         gradient_angle: 180
         text_color_light: false
-        
+      spacing:
+          padding: ["30px", "0px", "30px", "0px"]
+
+  - block: contact
+    content:
+      title: Contact
+      text: |-
+        欢迎联系！
+      email: test@example.org
+      phone: 888 888 88 88
+      address:
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: '94305'
+        country: United States
+        country_code: US
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
+      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      office_hours:
+        - 'Monday 10:00 to 13:00'
+        - 'Wednesday 09:00 to 10:00'
+      appointment_url: 'https://calendly.com'
+      #contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: 'https://discourse.gohugo.io'
+    
+      # Automatically link email and phone or display as text?
+      autolink: true
+    
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '1'
+      spacing:
+          padding: ["30px", "0px", "30px", "0px"]
+
+      
   - block: markdown
     content:
       text:

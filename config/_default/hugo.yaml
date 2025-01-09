@@ -19,6 +19,7 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+layout: compacts
 enableGitInfo: false
 summaryLength: 30
 pagination:
@@ -61,3 +62,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+plugins_css: ["custom"]
+font: 'EB Garamond'
