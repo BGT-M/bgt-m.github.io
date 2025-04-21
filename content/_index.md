@@ -11,8 +11,7 @@ sections:
           padding: ["80px", "0px", "20px", "0px"]
     content:
       title: |
-        大图挖掘
-        研究组
+        大图挖掘研究组
       image:
         filename: welcome.jpg
       text: |
