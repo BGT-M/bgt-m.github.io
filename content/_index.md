@@ -15,19 +15,18 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        你好👋，这里是大图挖掘组🚀
+        你好👋，这里是大图挖掘组
 #         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
-  - block: about.biography
-    id: about
-    content:
-      title: About 
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      design:
-        spacing:
-          padding: ["20px", "0", "20px", "0"]
+  # - block: about.biography
+  #   id: about
+  #   content:
+  #    title: About 
+  #    # Choose a user profile to display (a folder name within `content/authors/`)
+  #    username: admin
+  #    design:
+  #      spacing:
+  #        padding: ["20px", "0", "20px", "0"]
   - block: collection
     id: Publications
     content:
