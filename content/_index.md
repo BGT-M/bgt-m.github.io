@@ -13,16 +13,16 @@ sections:
       title: |
         BiG TeaM
       image:
-        filename: welcome.jpg
+        filename: BGT-Mlogo.png
       text: |
-        <H4>
-        We are forcusing on big graphs and trust-worthy large foundation models, which aims at bridging large language models (LLMs) and graph mining to tackle real-world challenges.</H4>
+        <br>
+        We are forcusing on big graphs and trust-worthy large foundation models, which aims at bridging large language models (LLMs) and graph mining to tackle real-world challenges.
         <ur>
         <li> <strong>Trustworthy LLM technologies</strong>, focusing on knowledge editingcontextual faithfulness, and safe generation.
-        <li> <strong>High-quality data construction and governance</strong>, including biggraph mining, scalable algorithms, graph compression, andsummarization.
+        <li> <strong>High-quality data construction and governance</strong>, including big graph mining, scalable algorithms, graph compression, andsummarization.
         </ur>
-        <H4>
-        We are actively recruiting Researchers to join our group at the Institute of Computing Technology, Chinese Academy of Sciences! </H4>
+        <br>
+        We are actively recruiting Researchers to join our group at the Institute of Computing Technology, Chinese Academy of Sciences! 
 
   - block: markdown
     content:

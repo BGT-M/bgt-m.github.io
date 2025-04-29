@@ -1,6 +1,6 @@
 ---
 # Display name
-title: X教授
+title: 教授
 
 # Full Name (for SEO)
 first_name: Nelson
