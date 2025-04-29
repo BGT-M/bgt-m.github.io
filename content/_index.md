@@ -15,14 +15,14 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        We are forcusing on big graphs and trust-worthy large foundation models, which aims at bridging large language models (LLMs) and graph mining to tackle real-world challenges.
+        <H4>
+        We are forcusing on big graphs and trust-worthy large foundation models, which aims at bridging large language models (LLMs) and graph mining to tackle real-world challenges.</H4>
         <ur>
         <li> <strong>Trustworthy LLM technologies</strong>, focusing on knowledge editingcontextual faithfulness, and safe generation.
         <li> <strong>High-quality data construction and governance</strong>, including biggraph mining, scalable algorithms, graph compression, andsummarization.
         </ur>
-        <br>
-        We are actively recruiting Researchers to join our group at the Institute of Computing Technology, Chinese Academy of Sciences! 
+        <H4>
+        We are actively recruiting Researchers to join our group at the Institute of Computing Technology, Chinese Academy of Sciences! </H4>
 
   - block: markdown
     content:
