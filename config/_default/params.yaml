@@ -72,7 +72,7 @@ features:
   math:
     enable: true
   privacy_pack:
-    enable: true
+    enable: false
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
@@ -84,7 +84,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
     giscus:
@@ -93,7 +93,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''

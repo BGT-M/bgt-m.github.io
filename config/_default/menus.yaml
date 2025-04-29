@@ -5,20 +5,17 @@
 
 main:
   - name: Publications
-    url: '#Publications'
+    url: '/publications/'
     weight: 50
   - name: Talks
-    url: '#talks'
+    url: '/talks/'
     weight: 40
   - name: Projects
-    url: '#projects'
+    url: '/projects/'
     weight: 30
-  - name: Publications
-    url: '#Publications'
-    weight: 20
   - name: People
-    url: '#peoples'
+    url: '/people/'
     weight: 10
   - name: Accomplishments
-    url: '#accomplishments'
+    url: '/accomplishments/'
     weight: 0
