@@ -11,12 +11,19 @@ sections:
           padding: ["80px", "0px", "20px", "0px"]
     content:
       title: |
-        大图挖掘研究组
+        BiG TeaM
       image:
         filename: welcome.jpg
       text: |
         <br>
-        你好👋，这里是大图挖掘组🚀
+        We are forcusing on big graphs and trust-worthy large foundation models, which aims at bridging large language models (LLMs) and graph mining to tackle real-world challenges.
+        <ur>
+        <li> <strong>Trustworthy LLM technologies</strong>, focusing on knowledge editingcontextual faithfulness, and safe generation.
+        <li> <strong>High-quality data construction and governance</strong>, including biggraph mining, scalable algorithms, graph compression, andsummarization.
+        </ur>
+        <br>
+        We are actively recruiting Researchers to join our group at the Institute of Computing Technology, Chinese Academy of Sciences! 
+
   - block: markdown
     content:
       title:
