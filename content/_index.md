@@ -16,13 +16,15 @@ sections:
         filename: BGT-Mlogo.png
       text: |
         <br>
-        We are forcusing on big graphs and trust-worthy large foundation models, which aims at bridging large language models (LLMs) and graph mining to tackle real-world challenges.
+        We are forcusing on <u>b</u>ig <u>g</u>raphs and <u>t</u>rust-worthy large foundation <u>m</u>odels, which aims at bridging large language models (LLMs) and graph mining to tackle the real-world challenges. The group is directed by Shenghua Liu at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). The goals include:
         <ur>
-        <li> <strong>Trustworthy LLM technologies</strong>, focusing on knowledge editingcontextual faithfulness, and safe generation.
-        <li> <strong>High-quality data construction and governance</strong>, including big graph mining, scalable algorithms, graph compression, andsummarization.
+        <li> <strong>Trustworthy LLMs</strong>, focusing on knowledge editing, contextual faithfulness, and safe generation.
+        <li> <strong>High-quality data</strong>, that is data mining methods related to big graph mining, scalable algorithms, graph compression, and summarization.
+        <li> <strong>Reasoning and efficiency scaling</strong>, focusing on more complex reasoning abilities (like thinking as a graph, and graph LLMs), and efficient machine learning from both algorithm and hardware sides.
         </ur>
         <br>
-        We are actively recruiting Researchers to join our group at the Institute of Computing Technology, Chinese Academy of Sciences! 
+        <br>
+        <i> We are actively recruiting highly-motivated Researchers and Ph.D./M.S. students to join our group at ICT, CAS! </i>
 
   - block: markdown
     content:
@@ -52,7 +54,7 @@ sections:
         gradient_angle: 180
         text_color_light: true
 
-#         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+# The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
 #   - block: about.biography
 #     id: about
