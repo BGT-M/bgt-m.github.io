@@ -16,6 +16,6 @@ main:
   - name: People
     url: '/people/'
     weight: 10
-  - name: Accomplishments
-    url: '/accomplishments/'
-    weight: 0
+  # - name: Accomplishments
+  #   url: '/accomplishments/'
+  #   weight: 0

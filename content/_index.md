@@ -31,7 +31,9 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        <div style="text-align: center;">
+          <a href="./people/" class="btn btn-primary btn-lg" style="font-size: 1.3rem; padding: 30px 30px; border-radius: 8px;">Meet the team →</a>
+        </div>
     design:
       columns: '1'
       spacing:
@@ -48,6 +50,8 @@ sections:
         </div>
     design:
       columns: '1'
+      spacing:
+          padding: ["150px", "0px", "150px", "0px"]
       background:
         gradient_start: '#eef2f3'
         gradient_end: '#f7f7f7'

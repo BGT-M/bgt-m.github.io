@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator # Researchers
+  - Principal Investigator 
 ---
 
 Shenghua Liu is a professor who is leading the *BiG Team* group, at 
