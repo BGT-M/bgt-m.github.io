@@ -14,7 +14,7 @@ interests:
 social:
   - icon: home
     icon_pack: fas
-    link: https://me.meirtz.com/aboyt
+    link: https://me.meirtz.com/about
   - icon: envelope
     icon_pack: fas
     link: mailto:crmeirtz@gmail.com
