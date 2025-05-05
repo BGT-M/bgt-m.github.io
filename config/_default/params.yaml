@@ -10,7 +10,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: 'EB Garamond'
-  font_size: M
+  font_size: L
 
 # SEO
 
@@ -40,7 +40,8 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
+
 
 # Site footer
 

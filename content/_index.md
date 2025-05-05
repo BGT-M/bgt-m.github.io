@@ -7,14 +7,16 @@ type: landing
 sections:
   - block: hero
     design:
+        css_class: "hero-large"
         spacing:
           padding: ["80px", "0px", "20px", "0px"]
     content:
       title: |
-        BiG TeaM
+        <span style="font-size: 0.9em;">BiG TeaM</span>
       image:
         filename: BGT-Mlogo.png
       text: |
+        <div style="font-size: 1rem;">
         <br>
         We are forcusing on <u>b</u>ig <u>g</u>raphs and <u>t</u>rust-worthy large foundation <u>m</u>odels, which aims at bridging large language models (LLMs) and graph mining to tackle the real-world challenges. The group is directed by Shenghua Liu at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). The goals include:
         <ur>
@@ -25,6 +27,7 @@ sections:
         <br>
         <br>
         <i> We are actively recruiting highly-motivated Researchers and Ph.D./M.S. students to join our group at ICT, CAS! </i>
+        </div>
 
   - block: markdown
     content:

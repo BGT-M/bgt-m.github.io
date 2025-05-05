@@ -19,6 +19,8 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+build:
+  writeStats: true
 layout: compacts
 enableGitInfo: false
 summaryLength: 30

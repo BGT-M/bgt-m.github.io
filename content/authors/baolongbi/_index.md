@@ -1,5 +1,5 @@
 ---
-title: Baolong Bi 毕宝龙
+title: Baolong Bi
 first_name: 宝龙
 last_name: 毕
 authors:

@@ -1,5 +1,5 @@
 ---
-title: Yuyao Ge 葛钰峣
+title: Yuyao Ge
 first_name: 钰峣
 last_name: 葛
 authors:
