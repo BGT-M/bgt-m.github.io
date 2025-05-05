@@ -9,7 +9,7 @@ plugins_css: ["custom"]
 appearance:
   theme_day: minimal
   theme_night:
-  font: 'EB Garamond'
+  font: native
   font_size: L
 
 # SEO
@@ -85,7 +85,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: false
+      show_count: true
     commento:
       url: ''
     giscus:
@@ -94,7 +94,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: ''
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
