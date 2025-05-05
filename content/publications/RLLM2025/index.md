@@ -3,7 +3,7 @@ title: 'Innate Reasoning is Not Enough : In-Context Learning Enhances Reasoning 
 
 authors:
   - Yuyao Ge
-  - Shenghua Liu
+  - admin
   - Yiwei Wang
   - Lingrui Mei
   - Lizhe Chen

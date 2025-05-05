@@ -3,7 +3,7 @@ title: 'a1꞉ Steep Test-time Scaling Law via Environment Augmented Generation'
 
 authors:
   - Lingrui Mei
-  - Shenghua Liu
+  - admin
   - Yiwei Wang
   - Baolong Bi
   - Yuyao Ge

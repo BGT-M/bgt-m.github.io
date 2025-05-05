@@ -3,7 +3,7 @@ title: 'Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?'
 
 authors:
   - Yuyao Ge
-  - Shenghua Liu
+  - admin
   - Baolong Bi
   - Yiwei Wang
   - Lingrui Mei
