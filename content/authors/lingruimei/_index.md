@@ -1,5 +1,5 @@
 ---
-title: Lingrui Mei 梅灵睿
+title: Lingrui Mei
 first_name: 灵睿
 last_name: 梅
 authors:

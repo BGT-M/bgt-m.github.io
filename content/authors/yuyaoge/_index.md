@@ -1,9 +1,9 @@
 ---
 title: Yuyao Ge
-first_name: 钰峣
-last_name: 葛
+first_name: Yuyao
+last_name: Ge
 authors:
-  - YuyaoGe
+  - Yuyao Ge
 role: Ph.D Candidate
 status:
   icon: 🔬

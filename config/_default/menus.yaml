@@ -5,7 +5,7 @@
 
 main:
   - name: Publications
-    url: '/publications/'
+    url: '/publication/'
     weight: 50
   - name: Talks
     url: '/talks/'

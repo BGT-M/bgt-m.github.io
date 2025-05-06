@@ -3,7 +3,7 @@ title: 'a1: Steep Test-time Scaling Law via Environment Augmented Generation'
 share: false
 authors:
   - Lingrui Mei
-  - admin
+  - Shenghua Liu
   - Yiwei Wang
   - Baolong Bi
   - Yuyao Ge
@@ -21,7 +21,8 @@ publishDate: '2025-04-20'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types:
+- preprint
 publication: arXiv
 
 
