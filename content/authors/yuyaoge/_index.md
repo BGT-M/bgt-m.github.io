@@ -39,7 +39,7 @@ education:
     - course: B.S. in Computer Science
       institution: North China University of Technology
       year: 2020-2024
-superuser: true
+superuser: false
 highlight_name: true
 email: "yuyao.ge.work@gmail.com"
 user_groups:

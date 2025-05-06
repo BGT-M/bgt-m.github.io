@@ -101,10 +101,48 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+
+  # Map
   map:
-    provider: 'mapnik'
+    provider: google
     api_key: ''
     zoom: 15
+# Show related content at the bottom of pages
+show_related:
+  docs: true
+  page: false
+  post: true
+  project: true
+  publication: true
+  talk: true
+############################
+## Regional Settings
+############################
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: 'en-us'
+
+############################
+## Advanced
+############################
+
+# Show estimated reading time for posts
+reading_time: true
+
+# Display next/previous section pager
+section_pager: false
+docs_section_pager: true
+
+# Highlight the site author in author lists
+highlight_superuser: false
+
+# Link authors to their profile page
+link_authors: true
+
+# Load JS plugins
+plugins_js: []
 
 # Extensions
 
@@ -115,8 +153,19 @@ extensions:
   academicons:
     enable: true
 
-# Citation style
+############################
+## Publications
+############################
 
 publications:
   date_format: January 2006
   citation_style: apa
+
+############################
+## Projects
+############################
+
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2

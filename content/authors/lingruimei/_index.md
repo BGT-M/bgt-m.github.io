@@ -40,7 +40,7 @@ education:
     - course: B.S. in Civil Engineering
       institution: Chongqing Jiaotong University
       year: 2016-2020
-superuser: true
+superuser: false
 highlight_name: true
 email: "crmeirtz@gmail.com"
 user_groups:

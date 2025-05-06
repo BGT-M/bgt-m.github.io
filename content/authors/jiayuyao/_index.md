@@ -14,7 +14,7 @@ education:
     - course: B.S. in Software Engineering
       institution: Beijing University of Posts and Telecommunications
       year: 2021-2025
-superuser: true
+superuser: false
 highlight_name: true
 email: "yaoduoduo882@gmail.com"
 user_groups:

@@ -26,7 +26,7 @@ education:
     - course: B.S. in Automation
       institution: Tsinghua University
       year: 2020-2024
-superuser: true
+superuser: false
 highlight_name: true
 email: "zhouxuanshan24@mails.ucas.ac.cn"
 user_groups:

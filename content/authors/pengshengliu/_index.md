@@ -25,7 +25,7 @@ education:
     - course: B.S. in Information Management and Information Systems
       institution: Guizhou University
       year: 2021-2025
-superuser: true
+superuser: false
 highlight_name: true
 email: "psliu21@gzu.edu.cn"
 user_groups:

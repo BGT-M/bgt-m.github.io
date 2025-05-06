@@ -33,7 +33,7 @@ education:
     - course: Ph.D Candidate
       institution: Institute of Computing Technology
       year: 2023-202X
-superuser: true
+superuser: false
 highlight_name: true
 email: "bibaolong23z@ict.ac.cn"
 user_groups:

@@ -49,14 +49,14 @@ taxonomies:
 markup:
   _merge: deep
 related:
-  threshold: 80
+  threshold: 50
   includeNewer: true
   toLower: true
   indices:
     - name: tags
-      weight: 100
+      weight: 50
     - name: categories
-      weight: 70
+      weight: 50
 security:
   _merge: deep
 sitemap:
