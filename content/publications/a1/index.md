@@ -1,6 +1,6 @@
 ---
 title: 'a1꞉ Steep Test-time Scaling Law via Environment Augmented Generation'
-
+share: false
 authors:
   - Lingrui Mei
   - admin
@@ -29,10 +29,10 @@ abstract: Large Language Models (LLMs) have made remarkable breakthroughs in rea
 # Summary. An optional shortened abstract.
 # summary: In this work, we propose a Dynamically Adaptive Density Control Strategy based on the degree of reconstruction of the background of the scene, which adaptive the spatial sample point generation strategy dynamically according to the training results and prevents the generation of redundant data in the model.
 
-tags: [Academic,Reasoning,LLM]
+tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

@@ -1,6 +1,6 @@
 ---
 title: 'Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?'
-
+share: false
 authors:
   - Yuyao Ge
   - admin
@@ -28,7 +28,7 @@ abstract: "Large language models (LLMs) have achieved significant success in rea
 
 # Summary. An optional shortened abstract.
 summary: In this work, we propose a Dynamically Adaptive Density Control Strategy based on the degree of reconstruction of the background of the scene, which adaptive the spatial sample point generation strategy dynamically according to the training results and prevents the generation of redundant data in the model.
-tags: [Academic,Graph,LLM,Reasoning,Heuristic]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
