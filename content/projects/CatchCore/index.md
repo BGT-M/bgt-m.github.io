@@ -4,7 +4,7 @@ date: 2019-09-16
 tags:
   - Graph
 links: 
- - name: code
+ - name: git repository
    url: "http://github.com/wenchieh/catchcore"
 ---
 
