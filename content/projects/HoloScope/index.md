@@ -4,7 +4,7 @@ date: 2017-11-07
 tags:
   - graph
 links: 
- - name: code
+ - name: git repository
    url: "https://github.com/shenghua-liu/HoloScope"
 ---
 
