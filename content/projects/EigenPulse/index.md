@@ -4,7 +4,7 @@ date: 2019-04-14
 tags:
   - Graph
 links: 
- - name: code
+ - name: git repository
    url: "https://github.com/BGT-M/spartan2-tutorials/blob/master/EigenPulse.ipynb"
 ---
 
