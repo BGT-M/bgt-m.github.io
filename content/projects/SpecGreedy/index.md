@@ -4,7 +4,7 @@ date: 2020-09-14
 tags:
   - Graph
 links: 
- - name: code
+ - name: git repository
    url: "https://github.com/wenchieh/specgreedy"
 ---
 
