@@ -11,8 +11,8 @@ authors:
 date: '2024-01-01'
 publishDate: '2025-05-07T04:22:06.792702Z'
 publication_types:
-- article-journal
-publication: '*CoRR*'
+- Preprint
+publication: '*arXiv*'
 doi: 10.48550/ARXIV.2406.11668
 links:
 - name: URL

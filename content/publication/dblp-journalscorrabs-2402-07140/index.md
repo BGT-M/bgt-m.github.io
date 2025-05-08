@@ -10,8 +10,8 @@ authors:
 date: '2024-01-01'
 publishDate: '2025-05-07T04:10:43.801573Z'
 publication_types:
-- article-journal
-publication: '*CoRR*'
+- Preprint
+publication: '*arXiv*'
 doi: 10.48550/ARXIV.2402.07140
 links:
 - name: URL

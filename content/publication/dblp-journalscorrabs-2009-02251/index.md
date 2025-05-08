@@ -8,8 +8,8 @@ authors:
 date: '2020-01-01'
 publishDate: '2025-05-07T04:22:06.973091Z'
 publication_types:
-- article-journal
-publication: '*CoRR*'
+- Preprint
+publication: '*arXiv*'
 links:
 - name: URL
   url: https://arxiv.org/abs/2009.02251
