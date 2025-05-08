@@ -12,7 +12,7 @@ authors:
 date: '2024-01-01'
 publishDate: '2025-05-08T00:55:52.658583Z'
 publication_types:
-- manuscript
+- preprint
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2402.07140
