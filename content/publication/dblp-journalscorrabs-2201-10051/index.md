@@ -12,7 +12,7 @@ authors:
 date: '2022-01-01'
 publishDate: '2025-05-07T04:22:06.882837Z'
 publication_types:
-- Preprint
+- preprint
 publication: '*arXiv*'
 links:
 - name: URL

@@ -8,7 +8,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2025-05-07T04:22:06.857235Z'
 publication_types:
-- Preprint
+- preprint
 publication: '*arXiv*'
 doi: 10.48550/ARXIV.2307.15969
 links:
