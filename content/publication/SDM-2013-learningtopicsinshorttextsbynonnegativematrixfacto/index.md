@@ -15,6 +15,6 @@ publication: '*Proceedings of the 13th SIAM International Conference on Data Min
   May 2-4, 2013. Austin, Texas, USA*'
 doi: 10.1137/1.9781611972832.83
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1137/1.9781611972832.83
 ---

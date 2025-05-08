@@ -14,6 +14,6 @@ publication: '*Proceedings of the Twenty-Ninth AAAI Conference on Artificial Int
   January 25-30, 2015, Austin, Texas, USA*'
 doi: 10.1609/AAAI.V29I1.9213
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1609/aaai.v29i1.9213
 ---

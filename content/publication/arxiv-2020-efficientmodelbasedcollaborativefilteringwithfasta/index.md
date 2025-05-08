@@ -11,6 +11,6 @@ publication_types:
 - preprint
 publication: '*arXiv*'
 links:
-- name: URL
+- name: PDF
   url: https://arxiv.org/abs/2009.02251
 ---

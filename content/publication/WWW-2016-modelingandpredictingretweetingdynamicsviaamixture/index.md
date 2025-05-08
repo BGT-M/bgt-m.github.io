@@ -13,6 +13,6 @@ publication: '*Proceedings of the 25th International Conference on World Wide We
   WWW 2016, Montreal, Canada, April 11-15, 2016, Companion Volume*'
 doi: 10.1145/2872518.2889389
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1145/2872518.2889389
 ---

@@ -16,6 +16,6 @@ publication: '*20th IEEE International Conference on Data Mining, ICDM 2020, Sor
   Italy, November 17-20, 2020*'
 doi: 10.1109/ICDM50108.2020.00071
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1109/ICDM50108.2020.00071
 ---

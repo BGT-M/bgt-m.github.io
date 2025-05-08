@@ -19,6 +19,6 @@ publication: '*The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAA
   EAAI 2020, New York, NY, USA, February 7-12, 2020*'
 doi: 10.1609/AAAI.V34I04.5906
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1609/aaai.v34i04.5906
 ---

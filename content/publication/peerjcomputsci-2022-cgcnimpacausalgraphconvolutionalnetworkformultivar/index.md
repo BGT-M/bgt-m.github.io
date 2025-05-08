@@ -12,6 +12,6 @@ publication_types:
 publication: '*PeerJ Comput. Sci.*'
 doi: 10.7717/PEERJ-CS.966
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.7717/peerj-cs.966
 ---

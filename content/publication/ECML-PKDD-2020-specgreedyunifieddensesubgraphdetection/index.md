@@ -14,6 +14,6 @@ publication: '*Machine Learning and Knowledge Discovery in Databases - European 
   ECML PKDD 2020, Ghent, Belgium, September 14-18, 2020, Proceedings, Part I*'
 doi: 10.1007/978-3-030-67658-2_11
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1007/978-3-030-67658-2_11
 ---

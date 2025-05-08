@@ -15,6 +15,6 @@ publication: '*Proceedings of the 2021 SIAM International Conference on Data Min
   SDM 2021, Virtual Event, April 29 - May 1, 2021*'
 doi: 10.1137/1.9781611976700.32
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1137/1.9781611976700.32
 ---

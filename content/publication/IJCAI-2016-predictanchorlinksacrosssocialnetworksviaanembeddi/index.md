@@ -13,6 +13,6 @@ publication_types:
 publication: '*Proceedings of the Twenty-Fifth International Joint Conference on Artificial
   Intelligence, IJCAI 2016, New York, NY, USA, 9-15 July 2016*'
 links:
-- name: URL
+- name: PDF
   url: http://www.ijcai.org/Abstract/16/261
 ---

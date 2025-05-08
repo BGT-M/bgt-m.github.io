@@ -13,6 +13,6 @@ publication: '*Advances in Database Technology - 22nd International Conference o
   Extending Database Technology, EDBT 2019, Lisbon, Portugal, March 26-29, 2019*'
 doi: 10.5441/002/EDBT.2019.80
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.5441/002/edbt.2019.80
 ---

@@ -18,6 +18,6 @@ publication: '*Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 202
   EAAI 2021, Virtual Event, February 2-9, 2021*'
 doi: 10.1609/AAAI.V35I5.16595
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1609/aaai.v35i5.16595
 ---

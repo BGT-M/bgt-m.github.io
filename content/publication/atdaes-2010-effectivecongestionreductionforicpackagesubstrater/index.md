@@ -14,6 +14,6 @@ publication_types:
 publication: '*ACM Trans. Design Autom. Electr. Syst.*'
 doi: 10.1145/1754405.1754412
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1145/1754405.1754412
 ---

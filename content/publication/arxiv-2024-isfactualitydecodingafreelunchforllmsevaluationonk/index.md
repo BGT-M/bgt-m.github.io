@@ -14,6 +14,6 @@ publication_types:
 publication: '*arXiv*'
 doi: 10.48550/ARXIV.2404.00216
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.48550/arXiv.2404.00216
 ---

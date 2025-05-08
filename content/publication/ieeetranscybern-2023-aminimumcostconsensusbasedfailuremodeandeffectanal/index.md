@@ -14,6 +14,6 @@ publication_types:
 publication: '*IEEE Trans. Cybern.*'
 doi: 10.1109/TCYB.2022.3212093
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1109/TCYB.2022.3212093
 ---

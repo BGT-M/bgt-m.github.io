@@ -14,6 +14,6 @@ publication: '*2013 IEEE/WIC/ACM International Conferences on Web Intelligence, 
   2013, Atlanta, GA, USA, November 17-20, 2013*'
 doi: 10.1109/WI-IAT.2013.17
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1109/WI-IAT.2013.17
 ---

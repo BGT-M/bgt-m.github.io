@@ -14,6 +14,6 @@ publication: '*Proceedings of the Twenty-Eighth International Joint Conference o
   Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019*'
 doi: 10.24963/IJCAI.2019/616
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.24963/ijcai.2019/616
 ---

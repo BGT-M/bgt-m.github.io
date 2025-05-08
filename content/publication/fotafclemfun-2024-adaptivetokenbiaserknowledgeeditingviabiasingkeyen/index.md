@@ -15,6 +15,6 @@ publication_types:
 publication: '*Findings of the Association for Computational Linguistics: EMNLP 2024,
   Miami, Florida, USA, November 12-16, 2024*'
 links:
-- name: URL
+- name: PDF
   url: https://aclanthology.org/2024.findings-emnlp.647
 ---

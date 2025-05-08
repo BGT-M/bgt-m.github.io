@@ -17,6 +17,6 @@ publication: '*16th IEEE International Conference on Machine Learning and Applic
   ICMLA 2017, Cancun, Mexico, December 18-21, 2017*'
 doi: 10.1109/ICMLA.2017.0-140
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1109/ICMLA.2017.0-140
 ---

@@ -15,6 +15,6 @@ publication_types:
 publication: '*Future Gener. Comput. Syst.*'
 doi: 10.1016/J.FUTURE.2020.08.033
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1016/j.future.2020.08.033
 ---

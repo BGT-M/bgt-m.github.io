@@ -14,6 +14,6 @@ publication: '*Advances in Knowledge Discovery and Data Mining - 21st Pacific-As
   Conference, PAKDD 2017, Jeju, South Korea, May 23-26, 2017, Proceedings, Part I*'
 doi: 10.1007/978-3-319-57454-7_61
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1007/978-3-319-57454-7_61
 ---

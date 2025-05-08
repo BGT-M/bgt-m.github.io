@@ -16,6 +16,6 @@ publication: '*Intelligent Information Processing VI - 7th IFIP TC 12 Internatio
   Conference, IIP 2012, Guilin, China, October 12-15, 2012. Proceedings*'
 doi: 10.1007/978-3-642-32891-6_33
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1007/978-3-642-32891-6_33
 ---

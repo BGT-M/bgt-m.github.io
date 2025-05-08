@@ -14,6 +14,6 @@ publication: '*Proceedings of the Twenty-Sixth International Joint Conference on
   Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017*'
 doi: 10.24963/IJCAI.2017/416
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.24963/ijcai.2017/416
 ---

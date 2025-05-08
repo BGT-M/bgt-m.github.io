@@ -15,6 +15,6 @@ publication: '*Proceedings of the Twenty-Seventh International Joint Conference 
   Artificial Intelligence, IJCAI 2018, July 13-19, 2018, Stockholm, Sweden*'
 doi: 10.24963/IJCAI.2018/460
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.24963/ijcai.2018/460
 ---

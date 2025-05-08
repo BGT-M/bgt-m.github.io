@@ -11,6 +11,6 @@ publication_types:
 - preprint
 publication: '*arXiv*'
 links:
-- name: URL
+- name: PDF
   url: http://arxiv.org/abs/1812.05306
 ---

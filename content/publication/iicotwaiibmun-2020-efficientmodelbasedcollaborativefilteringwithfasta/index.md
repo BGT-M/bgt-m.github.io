@@ -13,6 +13,6 @@ publication: '*32nd IEEE International Conference on Tools with Artificial Intel
   ICTAI 2020, Baltimore, MD, USA, November 9-11, 2020*'
 doi: 10.1109/ICTAI50040.2020.00149
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1109/ICTAI50040.2020.00149
 ---

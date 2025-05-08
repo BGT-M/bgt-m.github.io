@@ -17,6 +17,6 @@ publication: "*WSDM '22: The Fifteenth ACM International Conference on Web Searc
   and Data Mining, Virtual Event / Tempe, AZ, USA, February 21 - 25, 2022*"
 doi: 10.1145/3488560.3498418
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1145/3488560.3498418
 ---

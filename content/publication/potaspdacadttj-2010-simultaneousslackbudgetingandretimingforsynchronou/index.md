@@ -13,6 +13,6 @@ publication: '*Proceedings of the 15th Asia South Pacific Design Automation Conf
   ASP-DAC 2010, Taipei, Taiwan, January 18-21, 2010*'
 doi: 10.1109/ASPDAC.2010.5419919
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1109/ASPDAC.2010.5419919
 ---

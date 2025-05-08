@@ -12,6 +12,6 @@ publication: '*Proceedings of the 2017 ACM on Conference on Information and Know
   Management, CIKM 2017, Singapore, November 06 - 10, 2017*'
 doi: 10.1145/3132847.3133018
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1145/3132847.3133018
 ---

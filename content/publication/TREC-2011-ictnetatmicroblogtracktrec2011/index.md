@@ -14,4 +14,7 @@ publication_types:
 publication: '*Proceedings of The Twentieth Text REtrieval Conference, TREC 2011,
   Gaithersburg, Maryland, USA, November 15-18, 2011*'
 url_pdf: http://trec.nist.gov/pubs/trec20/papers/ICTNET.microblog.pdf
+links:
+- name: PDF
+  url: http://trec.nist.gov/pubs/trec20/papers/ICTNET.microblog.pdf
 ---

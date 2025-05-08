@@ -12,6 +12,6 @@ publication: '*Machine Learning and Knowledge Discovery in Databases - European 
   ECML PKDD 2019, Würzburg, Germany, September 16-20, 2019, Proceedings, Part I*'
 doi: 10.1007/978-3-030-46150-8_10
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1007/978-3-030-46150-8_10
 ---

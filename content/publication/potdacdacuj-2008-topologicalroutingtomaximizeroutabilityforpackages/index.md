@@ -16,6 +16,6 @@ publication: '*Proceedings of the 45th Design Automation Conference, DAC 2008, A
   CA, USA, June 8-13, 2008*'
 doi: 10.1145/1391469.1391612
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1145/1391469.1391612
 ---

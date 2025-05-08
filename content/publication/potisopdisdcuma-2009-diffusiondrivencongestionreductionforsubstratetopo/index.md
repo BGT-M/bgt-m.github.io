@@ -15,6 +15,6 @@ publication: '*Proceedings of the 2009 International Symposium on Physical Desig
   ISPD 2009, San Diego, California, USA, March 29 - April 1, 2009*'
 doi: 10.1145/1514932.1514970
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1145/1514932.1514970
 ---

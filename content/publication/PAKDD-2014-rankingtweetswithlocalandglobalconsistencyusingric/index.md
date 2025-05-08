@@ -13,6 +13,6 @@ publication: '*Advances in Knowledge Discovery and Data Mining - 18th Pacific-As
   Conference, PAKDD 2014, Tainan, Taiwan, May 13-16, 2014. Proceedings, Part I*'
 doi: 10.1007/978-3-319-06608-0_25
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1007/978-3-319-06608-0_25
 ---

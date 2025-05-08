@@ -17,6 +17,6 @@ publication: '*Advances in Knowledge Discovery and Data Mining - 25th Pacific-As
   Conference, PAKDD 2021, Virtual Event, May 11-14, 2021, Proceedings, Part I*'
 doi: 10.1007/978-3-030-75762-5_7
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1007/978-3-030-75762-5_7
 ---

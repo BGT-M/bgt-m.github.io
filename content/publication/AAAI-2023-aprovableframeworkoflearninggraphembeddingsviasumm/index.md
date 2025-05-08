@@ -16,6 +16,6 @@ publication: '*Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2
   2023, Washington, DC, USA, February 7-14, 2023*'
 doi: 10.1609/AAAI.V37I4.25621
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1609/aaai.v37i4.25621
 ---

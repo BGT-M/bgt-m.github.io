@@ -15,6 +15,6 @@ publication: '*International Conference on Machine Learning and Applications, IC
   2023, Jacksonville, FL, USA, December 15-17, 2023*'
 doi: 10.1109/ICMLA58977.2023.00280
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1109/ICMLA58977.2023.00280
 ---

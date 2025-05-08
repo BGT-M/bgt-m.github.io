@@ -11,6 +11,6 @@ publication_types:
 publication: '*IEEE Trans. Knowl. Data Eng.*'
 doi: 10.1109/TKDE.2018.2876531
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1109/TKDE.2018.2876531
 ---

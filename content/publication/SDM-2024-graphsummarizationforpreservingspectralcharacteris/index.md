@@ -13,6 +13,6 @@ publication: '*Proceedings of the 2024 SIAM International Conference on Data Min
   SDM 2024, Houston, TX, USA, April 18-20, 2024*'
 doi: 10.1137/1.9781611978032.31
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1137/1.9781611978032.31
 ---

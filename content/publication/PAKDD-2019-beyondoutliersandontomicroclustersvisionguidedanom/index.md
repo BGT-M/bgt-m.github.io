@@ -15,6 +15,6 @@ publication: '*Advances in Knowledge Discovery and Data Mining - 23rd Pacific-As
   Conference, PAKDD 2019, Macau, China, April 14-17, 2019, Proceedings, Part I*'
 doi: 10.1007/978-3-030-16148-4_42
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1007/978-3-030-16148-4_42
 ---

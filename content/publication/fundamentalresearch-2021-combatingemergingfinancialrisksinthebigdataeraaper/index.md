@@ -13,4 +13,7 @@ publishDate: '2025-05-07T04:44:55.870673Z'
 publication_types:
 - article-journal
 publication: '*Fundamental Research*'
+links:
+- name: PDF
+  url: https://www.sciencedirect.com/science/article/pii/S2667325821001722
 ---

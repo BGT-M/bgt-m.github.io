@@ -16,6 +16,6 @@ publication_types:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2402.07140
-- name: URL
+- name: PDF
   url: https://arxiv.org/abs/2402.07140
 ---

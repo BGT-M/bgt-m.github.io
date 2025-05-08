@@ -13,6 +13,6 @@ publication_types:
 publication: '*Optical Fiber Communications Conference and Exhibition, OFC 2020, San
   Diego, CA, USA, March 8-12, 2020*'
 links:
-- name: URL
+- name: PDF
   url: https://ieeexplore.ieee.org/document/9083281
 ---

@@ -14,6 +14,6 @@ publication_types:
 publication: '*ACM Trans. Soc. Comput.*'
 doi: 10.1145/3216368
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1145/3216368
 ---

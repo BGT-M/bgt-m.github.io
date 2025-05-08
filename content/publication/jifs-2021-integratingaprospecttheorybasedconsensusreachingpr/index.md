@@ -14,6 +14,6 @@ publication_types:
 publication: '*J. Intell. Fuzzy Syst.*'
 doi: 10.3233/JIFS-202326
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.3233/JIFS-202326
 ---

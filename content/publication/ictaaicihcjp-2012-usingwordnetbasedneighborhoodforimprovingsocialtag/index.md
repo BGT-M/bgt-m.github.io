@@ -15,6 +15,6 @@ publication: '*Intelligent Computing Theories and Applications - 8th Internation
   Conference, ICIC 2012, Huangshan, China, July 25-29, 2012. Proceedings*'
 doi: 10.1007/978-3-642-31576-3_29
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1007/978-3-642-31576-3_29
 ---

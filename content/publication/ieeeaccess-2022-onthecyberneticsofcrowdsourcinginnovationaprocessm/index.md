@@ -13,6 +13,6 @@ publication_types:
 publication: '*IEEE Access*'
 doi: 10.1109/ACCESS.2022.3154101
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1109/ACCESS.2022.3154101
 ---

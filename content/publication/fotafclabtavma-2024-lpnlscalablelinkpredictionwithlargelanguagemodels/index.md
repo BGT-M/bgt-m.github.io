@@ -14,6 +14,6 @@ publication: '*Findings of the Association for Computational Linguistics, ACL 20
   Bangkok, Thailand and virtual meeting, August 11-16, 2024*'
 doi: 10.18653/V1/2024.FINDINGS-ACL.215
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.18653/v1/2024.findings-acl.215
 ---

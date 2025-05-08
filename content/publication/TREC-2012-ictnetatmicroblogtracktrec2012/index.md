@@ -14,5 +14,7 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of The Twenty-First Text REtrieval Conference, TREC 2012,
   Gaithersburg, Maryland, USA, November 6-9, 2012*'
-url_pdf: http://trec.nist.gov/pubs/trec21/papers/ICTNET.microblog.final.pdf
+links:
+- name: PDF
+  url: https://doi.org/10.1145/1514932.1514970
 ---

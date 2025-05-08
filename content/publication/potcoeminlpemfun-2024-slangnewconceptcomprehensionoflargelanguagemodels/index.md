@@ -13,6 +13,6 @@ publication_types:
 publication: '*Proceedings of the 2024 Conference on Empirical Methods in Natural
   Language Processing, EMNLP 2024, Miami, FL, USA, November 12-16, 2024*'
 links:
-- name: URL
+- name: PDF
   url: https://aclanthology.org/2024.emnlp-main.698
 ---

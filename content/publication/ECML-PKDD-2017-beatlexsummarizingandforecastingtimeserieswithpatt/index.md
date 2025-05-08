@@ -13,6 +13,6 @@ publication: '*Machine Learning and Knowledge Discovery in Databases - European 
   ECML PKDD 2017, Skopje, Macedonia, September 18-22, 2017, Proceedings, Part II*'
 doi: 10.1007/978-3-319-71246-8_1
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1007/978-3-319-71246-8_1
 ---

@@ -13,6 +13,6 @@ publication: '*Proceedings of the 2019 SIAM International Conference on Data Min
   SDM 2019, Calgary, Alberta, Canada, May 2-4, 2019*'
 doi: 10.1137/1.9781611975673.70
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1137/1.9781611975673.70
 ---

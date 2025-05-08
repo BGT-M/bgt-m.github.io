@@ -15,6 +15,6 @@ publication_types:
 publication: '*IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.*'
 doi: 10.1109/TCAD.2008.2009154
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1109/TCAD.2008.2009154
 ---

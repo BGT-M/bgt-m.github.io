@@ -14,6 +14,6 @@ publication: "*22nd ACM International Conference on Information and Knowledge Ma
   CIKM'13, San Francisco, CA, USA, October 27 - November 1, 2013*"
 doi: 10.1145/2505515.2505569
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1145/2505515.2505569
 ---

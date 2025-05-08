@@ -13,6 +13,6 @@ publication_types:
 publication: '*ACM Trans. Knowl. Discov. Data*'
 doi: 10.1145/3363570
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1145/3363570
 ---

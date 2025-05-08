@@ -16,6 +16,6 @@ publication: "*22nd International World Wide Web Conference, WWW '13, Rio de Jan
   Brazil, May 13-17, 2013, Companion Volume*"
 doi: 10.1145/2487788.2487836
 links:
-- name: URL
+- name: PDF
   url: https://doi.org/10.1145/2487788.2487836
 ---

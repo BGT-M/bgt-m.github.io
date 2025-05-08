@@ -14,4 +14,7 @@ publishDate: '2025-05-07T04:44:55.883285Z'
 publication_types:
 - article-journal
 publication: '*arXiv preprint arXiv:2504.14597*'
+links:
+- name: PDF
+  url:  https://arxiv.org/abs/2504.14597
 ---
