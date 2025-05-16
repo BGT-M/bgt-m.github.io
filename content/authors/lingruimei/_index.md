@@ -20,7 +20,7 @@ social:
     link: mailto:crmeirtz@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/Meitz
+    link: https://github.com/Meirtz
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=GQ8LtcQAAAAJ
