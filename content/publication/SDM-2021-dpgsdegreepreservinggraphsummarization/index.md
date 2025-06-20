@@ -17,8 +17,8 @@ doi: 10.1137/1.9781611976700.32
 links:
 - name: PDF
   url: https://doi.org/10.1137/1.9781611976700.32
-- name: Video
-  url: SDM2021_DPGS_v3.mp4
+# - name: Video
+#   url: SDM2021_DPGS_v3.mp4
 - name: Slides
   url: SDM2021_DPGS_v3.1pptx.pdf
 ---

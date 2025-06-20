@@ -18,8 +18,8 @@ doi: 10.1609/AAAI.V37I4.25621
 links:
 - name: PDF
   url: https://doi.org/10.1609/aaai.v37i4.25621
-- name: Video
-  url: AAAI_pres_subtitles.mp4
+# - name: Video
+#   url: AAAI_pres_subtitles.mp4
 - name: Slides
   url: AAAI_pres.pdf
 ---
