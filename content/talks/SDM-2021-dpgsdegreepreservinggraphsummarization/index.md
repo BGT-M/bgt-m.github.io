@@ -7,7 +7,6 @@ authors:
 - Kijung Shin
 - Huawei Shen
 - Xueqi Cheng
-date: '2021-01-01'
 publishDate: '2025-05-07T04:22:06.927875Z'
 publication_types:
 - paper-conference
@@ -30,8 +29,8 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ''
-date_end: ''
+date: '2025-10-07T10:00:00Z'
+date_end: '2025-10-07T12:00:00Z'
 all_day: false
 
 tags: []
@@ -47,20 +46,5 @@ url_slides: SDM2021_DPGS_v3.1pptx.pdf
 url_video: SDM2021_DPGS_v3.mp4
 
 slides: ''
-
-projects: []
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
