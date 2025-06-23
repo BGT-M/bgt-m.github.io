@@ -11,6 +11,7 @@ address:
   region: ''
   postcode: ''
   country: ''
+doi: 10.1145/3132847.3133018
 
 summary: Shenghua Liu presents HoloScope, a method for detecting online fraud using graph topology and temporal spikes.
 abstract: "As people spend more time on platforms like YouTube, Facebook, and Twitter, and rely on reviews from Amazon and Yelp, online fraud has become a significant issue due to the high profits it offers to fraudsters. Online fraudsters invest in resources such as fake user accounts and dedicated IPs, making fraudulent activities less obvious and harder to detect. HoloScope is proposed to use graph topology and temporal spikes to detect fraudulent user groups more accurately. It introduces \"contrast suspiciousness,\" a dynamic weighting approach for detecting fraudulent blocks, especially low-density ones. HoloScope also considers sudden bursts and drops in fraudsters' attack patterns and provides theoretical bounds on the increased time cost for adversarial attacks. With a concise framework and sub-quadratic time complexity, HoloScope is reproducible and scalable, showing significant accuracy improvements in experiments."
@@ -36,8 +37,8 @@ image:
   caption: ''
   focal_point: ''
 
-url_code: 'https://github.com/shenghua-liu/HoloScope'
-# url_pdf: 'https://shenghua-liu.github.io/files/Holoscope_frauddetect-cikm2017.pdf'
+url_code: ''
+url_pdf: ''
 url_slides: 'https://shenghua-liu.github.io/files/Holoscope_frauddetect-cikm2017.pdf'
 url_video: 'https://www.youtube.com/watch?v=Cl1tlv5a-Js'
 

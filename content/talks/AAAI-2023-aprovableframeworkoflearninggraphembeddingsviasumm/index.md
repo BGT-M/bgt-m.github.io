@@ -6,7 +6,7 @@ authors:
 - Danai Koutra
 - Huawei Shen
 - Xueqi Cheng
-publishDate: '2025-05-07T04:22:06.844306Z'
+publishDate: '2023-02-07'
 publication_types:
 - paper-conference
 publication: '*Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023,
@@ -30,8 +30,8 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-10-07T10:00:00Z'
-date_end: '2025-10-07T12:00:00Z'
+date: '2023-02-07'
+#date_end: ''
 all_day: false
 
 tags: []
@@ -42,10 +42,9 @@ image:
   focal_point: ''
 
 url_code: ''
-url_pdf: https://doi.org/10.1609/aaai.v37i4.25621
+url_pdf: ''
 url_slides: AAAI_pres.pdf
 url_video: AAAI_pres_subtitles.mp4
-
 slides: ''
 projects: []
 ---

@@ -15,5 +15,6 @@ publication: '*Machine Learning and Knowledge Discovery in Databases - European 
 doi: 10.1007/978-3-030-67658-2_11
 links:
 - name: PDF
-  url: https://doi.org/10.1007/978-3-030-67658-2_11
+  url: ecml-pkdd2020-specgreedy.pdf 
+  #https://doi.org/10.1007/978-3-030-67658-2_11
 ---
