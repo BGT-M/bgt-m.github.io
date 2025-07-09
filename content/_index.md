@@ -12,13 +12,15 @@ sections:
           padding: ["80px", "0px", "20px", "0px"]
     content:
       title: |
-        <span style="font-size: 0.9em;">BiG TeaM</span>
+        <span style="font-size: 0.9em;">STAIR</span>
       image:
         filename: BGT-Mlogo.png
       text: |
         <div style="font-size: 1rem;">
         <br>
-        We are forcusing on <u>b</u>ig <u>g</u>raphs and <u>t</u>rust-worthy large foundation <u>m</u>odels, which aims at bridging large language models (LLMs) and graph mining to tackle the real-world challenges. The group is directed by Shenghua Liu at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). The goals include:
+        We are forcusing on <u>s</u>calable and <u>t</u>rustworthy <u>AI</u> <u>r</u>esearches, which includes trustworthy foundation models and its ability scaling, and scalable algorithms especially on big graphs, aiming at bridging large language models (LLMs) and big graph mining to tackle the real-world challenges. 
+        The group is directed by Shenghua Liu at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). 
+        Our goals include:
         <ur>
         <li> <strong>Trustworthy LLMs</strong>, focusing on knowledge editing, contextual faithfulness, and safe generation.
         <li> <strong>High-quality data</strong>, that is data mining methods related to big graph mining, scalable algorithms, graph compression, and summarization.
