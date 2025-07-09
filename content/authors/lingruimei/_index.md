@@ -8,9 +8,7 @@ role: Ph.D Candidate
 status:
   icon: 🔬
 interests:
-  - Large Language Model Reasoning
-  - Agentic Systems Training
-  - AI Safety
+  - Agentic AI
 social:
   - icon: home
     icon_pack: fas
