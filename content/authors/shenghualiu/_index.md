@@ -78,7 +78,7 @@ user_groups:
   - Principal Investigator 
 ---
 
-Shenghua Liu is a professor who is leading the *BiG Team* group, at 
+Shenghua Liu is a professor who is leading the *STAIR* group, at 
 Key Laboratory of Network Data Science and Technology, Institute of Computing Technology, CAS.
 He once visited at the University of California, Los Angeles, hosted by Prof. [Lei He](http://eda.ee.ucla.edu/people/faculty.html), and as a scholar at Carnegie Mellon University, hosted by Prof. [Christos Faloutsos](http://www.cs.cmu.edu/~christos).
 
